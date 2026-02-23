@@ -12,6 +12,15 @@
 - **极佳性能**：针对 Android 端优化内存占用与耗电，日志缓冲区优化，降低系统压力。
 - **跨平台体验**：更新检测自动匹配平台，支持 Windows (x64) 和 macOS (M 系列)。
 
+> 💡 **挂机环境提示**
+>
+> 如果你本地没有稳定的挂机环境，可以选择购买云电脑。推荐 [林枫云](https://www.dkdun.cn/buy/lite)，价格低至 **5￥/月**。
+>
+> 购买后建议按以下步骤使用：
+> 1. 在云电脑中安装 **WebView2 Runtime**（[点击下载](https://go.microsoft.com/fwlink/p/?LinkId=2124703)）。
+> 2. [**点击下载最新版 Windows exe**](https://github.com/HG-ha/qq-farm-bot-android/releases/latest/download/qq-farm-bot-win-x64.exe)
+> 3. 启动程序并完成账号配置后即可挂机运行。
+
 ## 📸 软件截图
 
 <p align="center">
@@ -23,10 +32,41 @@
 
 ## 📥 下载安装
 
-请前往 [Releases 页面](https://github.com/HG-ha/qq-farm-bot-android/releases) 下载对应平台的最新版本：
-- **Android**: 提供 ARM64、ARMv7 及通用安装包。
-- **Windows**: 下载 `win-x64` 压缩包即可运行。
-- **macOS**: 支持 Apple Silicon (M4/M系列) 。
+请前往 [Releases 页面](https://github.com/HG-ha/qq-farm-bot-android/releases) 下载对应平台的最新版本。
+
+### 📱 Android 版本
+
+| 文件名 | 说明 | 大小 |
+| :--- | :--- | :--- |
+| `qq-farm-bot-arm64-v8a.apk` | **推荐** 用于 64 位 Android 设备（最新旗舰机、平板等） | 9.41 MB |
+| `qq-farm-bot-armeabi-v7a.apk` | 用于 32 位 Android 设备（较旧手机） | 6.94 MB |
+| `qq-farm-bot.apk` | 通用版本（包含多架构支持，不知道选哪个用这个） | 13.9 MB |
+
+> **如何选择？**
+> - 新购买的手机（2018 年后）：选择 `arm64-v8a`
+> - 旧手机或不确定：选择 `qq-farm-bot.apk` 通用版
+
+### 💻 Windows 版本
+
+| 文件名 | 说明 | 大小 | 使用方式 |
+| :--- | :--- | :--- | :--- |
+| `qq-farm-bot-win-x64.exe` | Windows x64（64 位） | 5.87 MB | 双击直接运行，需已安装 WebView2 |
+
+**Windows 使用步骤：**
+1. 确保已安装 **WebView2 Runtime**（[点击下载](https://go.microsoft.com/fwlink/p/?LinkId=2124703)）
+2. 下载 `qq-farm-bot-win-x64.exe`
+3. 双击运行，根据提示登录 QQ 账号并配置即可
+
+### 🍎 macOS 版本
+
+| 文件名 | 说明 | 大小 |
+| :--- | :--- | :--- |
+| `qq-farm-bot-mac-arm64.M4.dmg` | macOS（Apple Silicon M4/M3/M2/M1） | 5.53 MB |
+
+**macOS 使用步骤：**
+1. 下载 `.dmg` 文件
+2. 双击打开，将应用拖入 Applications 文件夹
+3. 启动应用即可使用
 
 ## 💬 交流社区
 
