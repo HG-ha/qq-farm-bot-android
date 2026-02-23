@@ -1,6 +1,6 @@
 # QQ Farm Bot (Android/Windows/macOS)
 
-本项目基于 [qq-farm-bot](https://github.com/linguo2625469/qq-farm-bot) 核心协议，为 QQ 农场玩家提供了一套跨平台的可视化自动托管解决方案。支持 Android (ARM64/ARMv7/通用)、Windows 和 macOS 设备。
+本项目基于 [qq-farm-bot](https://github.com/linguo2625469/qq-farm-bot) 核心协议，为 QQ 农场玩家提供了一套跨平台的可视化自动托管解决方案，降低使用成本和门槛。支持 Android (ARM64/ARMv7/通用)、Windows 和 macOS 设备。
 
 ## 🌟 主要功能
 
@@ -14,21 +14,17 @@
 
 > 💡 **挂机环境提示**
 >
-> 如果你本地没有稳定的挂机环境，可以选择购买云电脑。推荐 [林枫云](https://www.dkdun.cn/buy/lite)，价格低至 **5￥/月**。
+> **云电脑方案**：如果你本地没有稳定的挂机环境，可以选择购买云电脑，使用windows系统，操作简单。推荐 [林枫云](https://www.dkdun.cn/buy/lite)，价格低至 **5￥/月**。
 >
 > 购买后建议按以下步骤使用：
 > 1. 在云电脑中安装 **WebView2 Runtime**（[点击下载](https://go.microsoft.com/fwlink/p/?LinkId=2124703)）。
 > 2. [**点击下载最新版 Windows exe**](https://github.com/HG-ha/qq-farm-bot-android/releases/latest/download/qq-farm-bot-win-x64.exe)
 > 3. 启动程序并完成账号配置后即可挂机运行。
-
-## 📸 软件截图
-
-<p align="center">
-  <img src="./assets/Notice.png" width="300" alt="状态通知" /><br/>
-  <b>状态通知</b><br/><br/>
-  <img src="./assets/Android.png" width="300" alt="主界面" /><br/>
-  <b>主界面</b>
-</p>
+>
+> **Android 后台运行**：高版本 Android（12+）由于系统策略限制，可能会对后台应用进行限制。为确保软件正常运行，建议在系统设置中：
+> - 关闭电池优化（Battery Optimization）
+> - 允许后台活动
+> - 禁用省电模式（Power Saving Mode）
 
 ## 📥 下载安装
 
@@ -71,6 +67,15 @@
 ## 💬 交流社区
 
 - **官方 Q 群**：**376957298**
+
+## 📸 软件截图
+
+<p align="center">
+  <img src="./assets/Notice.png" width="300" alt="状态通知" /><br/>
+  <b>状态通知</b><br/><br/>
+  <img src="./assets/Android.png" width="300" alt="主界面" /><br/>
+  <b>主界面</b>
+</p>
 
 ## 📜 更新记录
 
