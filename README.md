@@ -25,6 +25,7 @@
 > - 关闭电池优化（Battery Optimization）
 > - 允许后台活动
 > - 禁用省电模式（Power Saving Mode）
+> - 保持屏幕常亮（如果可以的话）
 
 ## 📥 下载安装
 
