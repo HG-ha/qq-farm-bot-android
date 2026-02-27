@@ -69,14 +69,12 @@
 
 - **官方 Q 群**：**376957298**
 
-## 📸 软件截图
 
-<p align="center">
-  <img src="./assets/Notice.png" width="300" alt="状态通知" /><br/>
-  <b>状态通知</b><br/><br/>
-  <img src="./assets/Android.png" width="300" alt="主界面" /><br/>
-  <b>主界面</b>
-</p>
+## 🎁 赞赏支持
+
+如果觉得本项目对你有帮助，欢迎微信扫码赞赏，感谢你的支持！
+
+<img src="assets/wx.jpg" alt="微信赞赏码" width="300">
 
 ## 📜 更新记录
 
