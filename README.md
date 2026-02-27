@@ -28,6 +28,31 @@
 > - 禁用省电模式（Power Saving Mode）
 > - 保持屏幕常亮（如果可以的话）
 
+## 📸 软件截图
+
+<details>
+<summary>点击展开查看截图</summary>
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/screenshot_home.png" width="250"><br><b>首页状态 & 今日统计</b></td>
+    <td align="center"><img src="assets/screenshot_farm_config.png" width="250"><br><b>农场自动化配置</b></td>
+    <td align="center"><img src="assets/screenshot_crop_efficiency.png" width="250"><br><b>作物效率 & 种植推荐</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screenshot_smart_switch.png" width="250"><br><b>智能换种 & 好友配置</b></td>
+    <td align="center"><img src="assets/screenshot_friend_steal.png" width="250"><br><b>好友互动 & 静默时段</b></td>
+    <td align="center"><img src="assets/screenshot_advanced.png" width="250"><br><b>高级功能 & 拟人模式</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/screenshot_friends.png" width="250"><br><b>好友列表</b></td>
+    <td align="center"><img src="assets/screenshot_land.png" width="250"><br><b>土地状态</b></td>
+    <td></td>
+  </tr>
+</table>
+
+</details>
+
 ## 📥 下载安装
 
 请前往 [Releases 页面](https://github.com/HG-ha/qq-farm-bot-android/releases) 下载对应平台的最新版本。
