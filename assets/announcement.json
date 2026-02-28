@@ -1,0 +1,14 @@
+{
+  "announcements": [
+    {
+      "id": "welcome-150",
+      "type": "popup",
+      "title": "v1.5.0 更新公告",
+      "content": "新增好友列表页面、每日操作统计、免费礼物领取等多项功能。\n\n如遇问题请加群 376957298 反馈。",
+      "icon": "",
+      "url": "https://github.com/HG-ha/qq-farm-bot-android/releases",
+      "urlText": "查看详情",
+      "showOnce": true
+    }
+  ]
+}
