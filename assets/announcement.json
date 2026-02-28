@@ -9,6 +9,31 @@
       "url": "https://github.com/HG-ha/qq-farm-bot-android/releases",
       "urlText": "查看详情",
       "showOnce": true
+    },
+    {
+      "id": "ad-001",
+      "type": "banner",
+      "title": "推荐：林枫云云电脑",
+      "content": "低至5元/月，稳定挂机环境",
+      "icon": "https://www.dkdun.cn/favicon.ico",
+      "url": "https://www.dkdun.cn",
+      "urlText": "立即查看",
+      "dismissible": true,
+      "bgColor": "#1a73e8"
+    },
+    {
+      "id": "notice-001",
+      "type": "marquee",
+      "content": "欢迎使用QQ农场机器人，加群 376957298 交流",
+      "icon": ""
+    },
+    {
+      "id": "popup-001",
+      "type": "popup",
+      "title": "重要公告",
+      "content": "本软件完全免费，如果付费请谨慎，谨防上当受骗。",
+      "urlText": "前往下载",
+      "showOnce": true
     }
   ]
 }
