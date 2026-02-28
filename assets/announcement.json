@@ -3,8 +3,8 @@
     {
       "id": "welcome-150",
       "type": "popup",
-      "title": "v1.5.0 更新公告",
-      "content": "新增好友列表页面、每日操作统计、免费礼物领取等多项功能。\n\n如遇问题请加群 376957298 反馈",
+      "title": "v1.5.1 更新公告",
+      "content": "修复好友列表、土地显示问题",
       "icon": "",
       "url": "https://github.com/HG-ha/qq-farm-bot-android/releases",
       "urlText": "查看详情",
@@ -13,24 +13,13 @@
     {
       "id": "ad-001",
       "type": "banner",
-      "title": "推荐：林枫云云电脑",
+      "title": "推荐：林枫云",
       "content": "低至5元/月，稳定挂机环境",
       "icon": "https://www.dkdun.cn/favicon.ico",
       "url": "https://www.dkdun.cn",
       "urlText": "立即查看",
       "dismissible": true,
       "bgColor": "#1a73e8"
-    },
-    {
-      "id": "ad-002",
-      "type": "banner",
-      "title": "推荐：免费云电脑",
-      "content": "低至5元/月，稳定挂机环境",
-      "icon": "https://www.freecloud.cn/favicon.ico",
-      "url": "https://www.freecloud.cn",
-      "urlText": "立即查看",
-      "dismissible": true,
-      "bgColor": "#1a73e8" 
     },
     {
       "id": "notice-001",
